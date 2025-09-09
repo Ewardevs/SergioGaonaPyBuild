@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Imagen 1",
+    "url": "/imgs/galery/image1.webp"
+  },
+  {
+    "title": "Imagen 2",
+    "url": "/imgs/galery/image2.webp"
+  },
+  {
+    "title": "Imagen 3",
+    "url": "/imgs/galery/image3.webp"
+  },
+  {
+    "title": "Imagen 4",
+    "url": "/imgs/galery/image4.webp"
+  },
+  {
+    "title": "Imagen 5",
+    "url": "/imgs/galery/image5.webp"
+  },
+  {
+    "title": "Imagen 6",
+    "url": "../imgs/galery/image6.webp"
+  },
+  {
+    "title": "Imagen 9",
+    "url": "../imgs/galery/image9.webp"
+  },
+  {
+    "title": "Imagen 9",
+    "url": "/imgs/galery/image10.webp"
+  }
+]
